@@ -1,6 +1,12 @@
 
 # ✈ SkyLink Flight Management System (Java)
 
+## 📄 License
+
+Developed by Rahul kumar & Jiya Kumari
+
+---
+
 ## 📌 Project Overview
 
 SkyLink Flight Management System is a **Java-based desktop application** developed using **Swing GUI** and **Data Structures (Linked Lists)**.
@@ -94,9 +100,3 @@ This project was created for:
 ## 🙌 Acknowledgment
 
 Special thanks to our instructor for guidance and support throughout this project.
-
----
-
-## 📄 License
-
-Developed by rahul kumar & Jiya Kumari
